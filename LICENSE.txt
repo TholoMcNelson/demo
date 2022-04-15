@@ -1,4 +1,3 @@
 #LICENSE
 
-##Apache 2.0
-VER
+##Apache 3.0
